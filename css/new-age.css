@@ -310,8 +310,6 @@ footer {
 .row-custom{
     display: -ms-flexbox;
     display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
 }
 .bg-primary {
   background: #fdcc52;
