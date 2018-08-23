@@ -1,0 +1,86 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Dec 2017 11:22:36 at https://www.nzog.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nzog.com/ -O1 "C:\Users\Dallas\Documents\GitHub\parkerprecisionweb.github.io\portfolio\patroleum_design\patroleum_example" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:02	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/sustainability-report/
+11:25:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/sustainability-report/ and www.nzog.com/investor-information/company-reports/sustainability-report/
+11:25:02	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/sustainability-report/ to http://www.nzog.com/investor-information/company-reports/sustainability-report/
+11:27:57	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/
+11:27:57	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/ and www.nzog.com/investor-information/
+11:27:57	Warning: 	File has moved from https://www.nzog.com/investor-information/ to http://www.nzog.com/investor-information/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/ and www.nzog.com/investor-information/shareholders-information/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/ to http://www.nzog.com/investor-information/shareholders-information/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/annual-meetings/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/annual-meetings/ and www.nzog.com/investor-information/shareholders-information/annual-meetings/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/annual-meetings/ to http://www.nzog.com/investor-information/shareholders-information/annual-meetings/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/investor-briefings/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/investor-briefings/ and www.nzog.com/investor-information/shareholders-information/investor-briefings/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/investor-briefings/ to http://www.nzog.com/investor-information/shareholders-information/investor-briefings/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/distribution-of-listed-holdings/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/distribution-of-listed-holdings/ and www.nzog.com/investor-information/shareholders-information/distribution-of-listed-holdings/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/distribution-of-listed-holdings/ to http://www.nzog.com/investor-information/shareholders-information/distribution-of-listed-holdings/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/dividends/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/dividends/ and www.nzog.com/investor-information/shareholders-information/dividends/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/dividends/ to http://www.nzog.com/investor-information/shareholders-information/dividends/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/share-price-graph/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/share-price-graph/ and www.nzog.com/investor-information/shareholders-information/share-price-graph/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/share-price-graph/ to http://www.nzog.com/investor-information/shareholders-information/share-price-graph/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/shareholders-information/corporate-governance/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/shareholders-information/corporate-governance/ and www.nzog.com/investor-information/shareholders-information/corporate-governance/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/shareholders-information/corporate-governance/ to http://www.nzog.com/investor-information/shareholders-information/corporate-governance/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/ and www.nzog.com/investor-information/company-reports/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/ to http://www.nzog.com/investor-information/company-reports/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/annual-reports/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/annual-reports/ and www.nzog.com/investor-information/company-reports/annual-reports/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/annual-reports/ to http://www.nzog.com/investor-information/company-reports/annual-reports/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/shareholder-reports/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/shareholder-reports/ and www.nzog.com/investor-information/company-reports/shareholder-reports/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/shareholder-reports/ to http://www.nzog.com/investor-information/company-reports/shareholder-reports/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/quarterly-reports/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/quarterly-reports/ and www.nzog.com/investor-information/company-reports/quarterly-reports/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/quarterly-reports/ to http://www.nzog.com/investor-information/company-reports/quarterly-reports/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/interim-half-yearly-reports/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/interim-half-yearly-reports/ and www.nzog.com/investor-information/company-reports/interim-half-yearly-reports/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/interim-half-yearly-reports/ to http://www.nzog.com/investor-information/company-reports/interim-half-yearly-reports/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/presentations/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/presentations/ and www.nzog.com/investor-information/company-reports/presentations/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/presentations/ to http://www.nzog.com/investor-information/company-reports/presentations/
+11:27:58	Warning: 	Moved Permanently for https://www.nzog.com/investor-information/company-reports/analyst-coverage/
+11:27:58	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nzog.com/investor-information/company-reports/analyst-coverage/ and www.nzog.com/investor-information/company-reports/analyst-coverage/
+11:27:58	Warning: 	File has moved from https://www.nzog.com/investor-information/company-reports/analyst-coverage/ to http://www.nzog.com/investor-information/company-reports/analyst-coverage/
+11:28:06	Warning: 	File not parsed, looks like binary: https://www.nzog.com/vendor/twbs/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2
+11:28:07	Error: 	"Not Found" (404) at link https://www.nzog.com/themes/nz-oil-gas/img/header-bg.jpg (from https://www.nzog.com/themes/nz-oil-gas/css/bootstrap.css)
+11:28:13	Error: 	"Not Found" (404) at link https://www.nzog.com/archive/capital-return2017/ (from https://www.nzog.com/our-story/our-strategy/)
+11:39:19	Error: 	"Not Found" (404) at link https://www.nzog.com/"[dms_document_link,id=297]">Read (from https://www.nzog.com/news/takeover-offer/)
+11:43:38	Error: 	"Not Found" (404) at link https://www.nzog.com/"https://www.oferglobal.com/why-new-zealand/" (from https://www.nzog.com/takeover-news/about-o-g-oil-and-gas/)
+11:43:48	Error: 	"Not Found" (404) at link https://www.nzog.com/capitalreturn. (from https://www.nzog.com/news/inland-revenue-binding-ruling-on-scheme-of-arrangement/)
+11:43:49	Error: 	"Not Found" (404) at link www.nzog.com/investor-information/capital-return2017 (from https://www.nzog.com/news/new-blog-post-10/)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/ga.js (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/main-vfl4BpxKG.css (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/web_sprites-vflnZ14CY.css (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://dt8kf6553cww8.cloudfront.net/static/images/dropbox_webclip-vflO8tEZ4.png (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/dropbox-mini-vflO2ZPMP.js (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/new_logo_shmodel_2x-vflkCIiHR.png (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/new_logo_shmodel-vfl9sSGTp.png (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/icon_spacer-vflN3BYt2.gif (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/page_white_acrobat-vfl4FwT-T.png (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/29042013%2520AdvantageNZ%2520AK.pdf (from https://www.nzog.com/dmsdocument/86)
+11:43:53	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/page_white_acrobat.png (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/twitter_logo.jpg (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/twitter_signin.png (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/facebook_logo.jpg (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/facebook_signin.png (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/ajax-loading-small.gif (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/ajax-loader-trans.gif (from https://www.nzog.com/dmsdocument/86)
+11:43:54	Error: 	"Not Found" (404) at link https://www.nzog.com/dmsdocument/29042013 AdvantageNZ AK_files/logger-vflo8AFYX.js (from https://www.nzog.com/dmsdocument/86)
+11:43:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://dt8kf6553cww8.cloudfront.net/static/images/dropbox_webclip-vflO8tEZ4.png (from https://www.nzog.com/dmsdocument/86)
+11:43:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://dt8kf6553cww8.cloudfront.net/static/images/dropbox_webclip-vflO8tEZ4.png (from https://www.nzog.com/dmsdocument/86)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 21 seconds : 1026 links scanned, 982 files written (272413863 bytes overall) [245772331 bytes received at 191859 bytes/sec], 33011891 bytes transferred using HTTP compression in 642 files, ratio 17%, 4.1 requests per connection
+(24 errors, 51 warnings, 0 messages)
